@@ -1,0 +1,49 @@
+import java.util.*;
+
+public class ale {
+    public static void main(String args[]) {
+        ArrayList<String> ali = new ArrayList<>();
+        ali.add("A");
+        ali.add("B");
+        ali.add("C");
+        ali.add("D");
+        ali.add("E");
+
+        System.out.println(combinations(ali).toString().replace("], [", "],\n ["));
+    }
+    public static List<List<String>> combinations(List<String> input) {
+        return step(input, input.size(), new ArrayList<>());
+    }
+
+    public static List<List<String>> step(List<String> input, int k, List<List<String>> result) {
+        if (k == 0) {
+            return result;
+        }
+
+        if (result.size() == 0) {
+            for (String i : input) {
+                ArrayList<String> subList = new ArrayList<>();
+                subList.add(i);
+                result.add(subList);
+            }
+
+            // Around we go again.
+            return step(input, k - 1, result);
+        }
+
+        // Cross result with input. Taking us to 2 entries per sub list. Then 3. Then...
+        List<List<String>> newResult = new ArrayList<>();
+        for (List<String> subList : result) {
+            for (String i : input) {
+                List<String> newSubList = new ArrayList<>();
+                newSubList.addAll(subList);
+                newSubList.add(i);
+                newResult.add(newSubList);
+            }
+        }
+
+        // Around we go again.
+        return step(input, k - 1, newResult);
+    }
+}
+
