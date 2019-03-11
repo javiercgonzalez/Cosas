@@ -1,0 +1,273 @@
+<resources>
+    <string name="app_name">PracticaFragments1</string>
+    <string name="beta">Con el Programa de versiones Beta de Android, no solo podrás acceder de manera sencilla a versiones previas al lanzamiento de Android y Wear OS by Google, sino que también podrás probar todas las funciones nuevas. Los comentarios que proporciones nos ayudarán a identificar y solucionar problemas para seguir mejorando la plataforma. Los dispositivos registrados recibirán automáticamente actualizaciones de la última versión Beta de Android o Wear OS by Google. Obtén más información sobre los dispositivos aptos.
+                Accede a tu cuenta de Google para ver una lista de tus dispositivos compatibles. Después de inscribirte y aceptar las Condiciones del servicio del Programa de versiones Beta de Android, podrás comenzar a compartir tus comentarios sobre Android P directamente desde tu dispositivo y en la comunidad de Google+ del Programa de versiones Beta de Android.
+                Asegúrate de crear una copia de seguridad de tu teléfono Android antes de instalar el software Beta. Las actualizaciones que recibas como parte del programa son versiones previas al lanzamiento y podrían contener errores y defectos que afecten el funcionamiento normal del dispositivo. Consulta los problemas conocidos de Pixel y los problemas conocidos de Wear OS by Google. compartir tus comentarios sobre Android P directamente desde tu dispositivo y en la comunidad de Google+ del Programa de versiones Beta de Android.
+                Asegúrate de crear una copia de seguridad de tu teléfono Android antes de instalar el software Beta. Las actualizaciones que recibas como parte del programa son versiones previas al lanzamiento y podrían contener errores y defectos que afectenNota: No recibirás actualizaciones de seguridad mensuales si tienes una compilación Beta.Obtén más información sobre los dispositivos aptos.
+    </string>
+    <string name="gingerbread">Android Gingerbread hereda las características desarrolladas en antiguas versiones de Android como las siguientes:
+
+        Navegador Web para visualizar, páginas webs además de HTML, HTML completo.
+        Soporte de Cámara.
+        Acceso a servidores de correo electrónico por web, soporte POP3, IMAP4, y SMTP.
+        Sincronización de Google Calendar con la aplicación de calendario
+        Google Maps: Es el servicio de mapas de Google, podemos ver los mapas tradicionales o los mapas con fotos de satélite, con un clic podemos conocer nuestra localización en los mapas utilizando gps, además nos permite buscar una dirección para ver su ubicación, además de darnos el teléfono de las direcciones que buscamos, poder llamar a los teléfonos con solo tocar el número telefónico mostrado, ver información sobre los lugares, sus horarios, además nos dice como podemos llegar a un lugar desde donde nos encontramos o cualquier otro lugar ya sea en automóvil en autobús (o metro, tren, etc), en bicicleta o a pie.
+        Latitude: Permite al usuario compartir su ubicación con otras personas.
+        Street View: Podemos ver las fotografías tomadas a pie de calle de la dirección que buscamos para facilitarnos la localización o conocer el lugar antes de llegar a él.
+        Mensajería instantánea Google Talk actualizable a Hangouts.
+        Reproductor de medios, habilitada administración, importación, y reproducción de archivos multimedia – sin embargo, esta versión carece de soporte vídeo y estéreo por Bluetooth.
+        </string>
+    <string name="apple_pie">Android 1.0 Apple Pie fue la primera versión de Android comercial lanzada y este lanzamiento se realizó junto al HTC Dream el 23 septiembre de 2008. El HTC Dream fue el primer móvil con el sistema operativo Android en estar en el mercado y fue el pistoletazo de salida en el mercado y marcó el antes y el después en cuanto al ecosistema de telefonía móvil que, en ese momento era dominado por Symbian con un nuevo sistema operativo llamado iOS que se iba abriendo camino junto con BlackBerry o se asomaba tímidamente Windows Mobile con el HTC Diamond.
+
+    Como es lógico, ésta fue la versión de Android con un mayor número de novedades e incorporaciones de todas las vividas en la evolución y crecimiento de Android pues sentaba las bases para el comienzo de un nuevo sistema operativo a nivel comercial.
+
+    Las novedades e incorporaciones más destacadas de Android 1.0 fueron:
+    Incorporación de un mercado para compra y descarga de aplicaciones bajo el nombre de Android Market.
+    Un navegador web con soporte multiples ventanas y capaz de abrir páginas web en HTML y XHTML.
+    Soporte básico para cámara de fotos.
+    Posibilidad de crear carpetas e introducir iconos de aplicaciones en ellas desde el escritorio.
+    Acceder a servidores de correo electrónico por web soportando los protocolos POP3, IMAP4 y SMTP.
+    Sincronización con los productos de Google: Gmail, Google Calendar y Google Contacts.
+    Incorporación de productos de Google: GTalk, Google Maps, YouTube, Google Sync y Google Search.
+    Mensajería instantánea, SMS y MMS.
+    </string>
+    <string name="donut">
+        Es una versión descontinuada de la tercera versión perteneciente al sistema operativo Android, el cual fue precedido por aquél llamado Cupcake y sucedido por el Eclair. De igual forma, este fue desarrollado por la empresa Google, siendo empleado mayormente para aquellos dispositivos móviles táctiles, como teléfonos inteligentes y tablets. Salió al mercado en el año 2009, sólo cinco meses después de que la versión anterior a él lo hiciera, debido a pequeñas fallas en el equipo.
+
+    La empresa que la fábrica, Android Inc., fue fundada por Andy Rubin, Rich Miner, Chris White y Nick Sears, en el año 2003. Esta fue adquirida por Google, compañía que empezó a experimentar y diseñar diversos sistemas operativos que ayudarían a progresar la versión final que tenían pensado lanzar al mercado. El signo de esta marca está definido por su logo, protagonizado por el ya tradicional robot verde Andy. Se ha expandido a diversos campos de comercio, ofreciendo, incluso, una tienda de aplicaciones exclusiva para los consumidores de su producto. Normalmente, es el predilecto para los teléfonos inteligentes que no pertenecen a Microsoft o Apple y se considera uno de los más accesibles.
+    El Android donut surgió como la aparente solución a los problemas que estaban presentando ediciones más antiguas de la interfaz, de ahí que su comercialización haya empezado tan pronto. Se le añadieron mejoras evidentes en el funcionamientointegral del producto, además de una aplicación de soporte técnico y ayuda con respecto al manejo del dispositivo. Sin embargo, otros errores aparecieron y tuvo que ser removido un mes después de haber sido distribuido.
+
+    </string>
+    <string name="cupcake">
+        Android 1.5 Cupcake fue la segunda versión de Android desarrollada por Google, un lanzamiento mayor de la plataforma para los celulares con Android empezando en mayo de 2009. Este lanzamiento incluyó nuevas funciones para ambos desarrolladores y usuarios, así como también en el esqueleto del API de Android . Para los desarrolladores, la plataforma 1.5 de Android fue disponible como un componente descargable del Android SDK.
+    “Esta es la primera versión de Android nombrada en honor a un postre, aquí comenzaría esta tan peculiar característica”
+        Fecha de Lanzamiento: 27 Abril 2009
+        Características Generales:
+    Permitía el uso de teclados virtuales de productores externos con predicción de texto y diccionario del usuario con palabras personalizadas
+    Introdujo el uso de Widgets
+    Grabado y reproducción de videos en formato MPEG-4 y 3GP.
+    Auto paraje y sonido estero con dispositivos Bluetooth.
+    Característica de copiar y pegar texto en el navegador.
+    Contactos favoritos
+    Hora y fecha específicas en la pantalla del historial de llamadas.
+    Transición de pantalla animada
+    Auto-rotación de pantalla.
+    Habilidad de subir videos desde YouTube
+    Habilidad de subir fotos desde Picasa
+        Ventajas: Nuevas Características e interface de usuario
+        Desventajas: No hay desventajas significativas en esta versión puesto que fue muy innovadora
+        Precio al Público: Gratuito
+        Requisitos mínimos de instalación:
+    Procesador: 528 MHz
+        El rendimiento se pulió, podía funcionar en smartphones con 512MB de RAM y Android RunTime comenzaba a dar sus primeros pasos.
+Hoy en día continúa habiendo millones de terminales con Android KitKat, aquí recopilamos modelos, ROMs para actualizarlos, trucos de personalización, aplicaciones compatibles y mucho más.
+Como muchos ya sabréis a partir de Android 4.4 (KitKat) ya es posible grabar en vídeo todo lo que sucede en la pantalla de nuestro dispositivo de forma oficial, sin necesidad de tener que rootearlo e instalar aplicaciones de terceros, aunque si que necesitamos conectar nuestro dispositivo Android a un ordenador.
+Para grabar la pantalla de nuestro dispositivo con Android 4.4 o superior, también conocido como hacer un screencast
+</string>
+    <string name="banana">
+Aunque parece que fue ayer cuando comenzó todo esto, la historia de Android ya lleva sus años, y en nuestra sección ya hemos pasado por muchas fases. En este caso, tras contarte lo que pasó en 2008 con el lanzamiento del primer terminal con el sistema operativo, pasamos a explicarte cómo el año siguiente, el 2009, se convierte en el año en el que el software es el gran protagonista. Justamente en esta época llegarían las mejoras de la primera versión de Android, que fuera ya actualizada con Android 1.1 Banana Bread, que pese a no llevar cambios importantes, supuso un paso adelante en la resolución de bugs.
+Pero quizás el 2009, en la historia de Android como sistema operativo, comienza literalmente con el lanzamiento de Android 1.1 Banana Bread en febrero de 2009. El 30 de abril llegó Android 1.5 CupCake. El 15 de septiembre de 2009, llegaría Android 1.6 Donut, del que también te hablaremos a continuación. Y por si no bastase ya con dos actualizaciones, aún quedaba por conocer lo mejor. Porque en 2009, también llegaría la que fue una de las versiones más utilizadas. Hablamos de Android 2.0 Eclair. Pero tranquilos, que a continuación vamos a ir una a una recorriendo la historia y evolución de Android durante este año.
+Android 1.1 Banana Bread fue una pequeña actualización publicada el 9 de febrero de 2009, además, al existir en ese momento únicamente el HTC Dream, esta actualización estaba orientada exclusivamente a este terminal resolviendo pequeños errores detectados, mejorando y cambiando la API y añadiendo una serie de nuevas características.
+    </string>
+    <string name="jelly_bean">
+Android 4.3 Jelly Bean es ni más ni menos que la décima versión de este sistema operativo, y su presentación se remonta hasta el año 2012. Todavía a día de hoy se trata de una versión que sigue siendo utilizada por miles de usuarios en todo el mundo, aunque las nuevas actualizaciones de KitKat, Lollipop y Marshmallow han conseguido atraer a muchas de las personas que todavía seguían en esta versión.
+
+Si buscas guías o tutoriales acerca de la versión de Jelly Bean de Android, en este apartado podrás bucear en el tiempo para dar con la ayuda que necesitas para tu teléfono o tableta. Eso sí, a estas alturas te recomendamos que comiences a plantearte la compra de un nuevo dispositivo que traiga de serie alguna versión más actualizada.
+        El miércoles de la semana pasada vimos como Google por fin anunciaba oficialmente Android 4.3, una actualización menor de Jelly Bean que comenzó a llegar vía OTA al Galaxy Nexus, Nexus 4 y Nexus 7 oficialmente al día siguiente. Ese mismo día vimos las principales novedades que Google anunció durante el evento pero no las anunciaron todas en ese momento, en días posteriores se han ido conociendo más mejoras.
+A continuación vamos a ver con más detalle las principales novedades que los usuarios disfrutarán con Android 4.3 (Jelly Bean) basándonos en los cambios recibidos en los Nexus, es decir, con Android sin personalizar.
+El rendimiento se pulió, podía funcionar en smartphones con 512MB de RAM y Android RunTime comenzaba a dar sus primeros pasos.
+Hoy en día continúa habiendo millones de terminales con Android KitKat, aquí recopilamos modelos, ROMs para actualizarlos, trucos de personalización, aplicaciones compatibles y mucho más.
+Como muchos ya sabréis a partir de Android 4.4 (KitKat) ya es posible grabar en vídeo todo lo que sucede en la pantalla de nuestro dispositivo de forma oficial, sin necesidad de tener que rootearlo e instalar aplicaciones de terceros, aunque si que necesitamos conectar nuestro dispositivo Android a un ordenador.
+Para grabar la pantalla de nuestro dispositivo con Android 4.4 o superior, también conocido como hacer un screencast
+    </string>
+    <string name="icecream">
+    Como estaba marcado en el calendario, Google nos ha presentado la versión 4.0 de Android acompañando al Galaxy Nexus. En este artículo vamos a informaros sobre las novedades de la esperada renovación del sistema operativo de Google, mejor conocida como Ice Cream Sandwich, que ha tenido a Matías Duarte como diseñador principal, y maestro de ceremonias.
+
+Para los que no estuvieron al tanto, nuestros compañeros de Xataka Android han pasado la noche informando sobre las novedades del sistema en riguroso directo. Os adelantamos que son muchas, empezando por un rediseño bastante más importante de lo que habíamos experimentado en anteriores iteraciones.
+como diseñador principal, y maestro de ceremonias.
+
+Para los que no estuvieron al tanto, nuestros compañeros de Xataka Android han pasado la noche informando sobre las novedades del sistema en riguroso directo. Os adelantamos que son muchas, empezando por un rediseño bastante más importante de lo que habíamos experimentado en anteriores iteraciones.
+¿Puede una máquina tener alma?
+No es que me ponga transcendental, es un eslogan que aparecía en uno de los muros de la presentación. Android 4.0 está construido bajo tres principios en la mente de Matías: que nos encante, nos simplifique la vida y nos sorprenda.
+
+Para el reconocido diseñador de la experiencia de usuario del sistema de Google, lo que ocurría hasta ahora es que necesitábamos Android y estábamos contentos con él, pero no habíamos llegado a responder emocionalmente, ahora empezaremos a quererlo.
+
+    </string>
+    <string name="mars">
+    Android 6.0 Marshmallow introduce un modelo de permisos rediseñado: ahora hay únicamente ocho categorías de permisos, y las aplicaciones ya no conceden automáticamente todos sus permisos específicos en el momento de la instalación. Se utiliza ahora un sistema "opt-in", en el que los usuarios pueden conceder o denegar permisos individuales a una aplicación cuando lo requieran, tales como el acceso a la cámara o el micrófono. Las aplicaciones recuerdan las concesiones de permisos de cada usuario, y pueden ser ajustados en cualquier momento. Sólo las aplicaciones compiladas para Android 6.0 Marshmallow con su SDK utilizarán el nuevo sistema de permisos, mientras que todas las demás aplicaciones continuarán utilizando el modelo de permisos anterior.12
+Android Marshmallow ofrece soporte nativo para el reconocimiento de huellas digitales, lo que permite el uso de las mismas para desbloquear los dispositivos, y para la autenticación de Play Store o Android Pay; una API estándar también está disponible para la implementación de la autenticación basada en huellas digitales en otras aplicaciones. Un nuevo sistema de administración de energía conocida como "doze" reduce las actividades en fondo del dispositivo cuando el sistema operativo detecta que el dispositivo no está siendo tocado físicamente. Android 6.0 Marshmallow es compatible con USB Tipo-C, lo que implica la capacidad de carga a través de USB, hasta 5 veces más rápida, dependiendo del terminal. Android 6.0 Marshmallow también introduce "enlaces verificados" que se pueden configurar para abrir directamente una aplicación especificada, sin la necesidad de mostrar mensajes de usuario.
+
+    </string>
+    <string name="kitkat">
+KitKat es sin duda una de las versiones de Android más conocidas por su nombre, la campaña de publicidad que Google hizo con Nestlé fue enorme, regalando dispositivos y muchos cupones regalo para Google Play en los envoltorios de los dulces.
+KitKat es Android 4.4, una versión que se presentó oficialmente el 3 de septiembre de 2013 y llegó hasta 4.4.4. Esta versión fue la que estuvo presente en el mítico Nexus 5 de LG en el momento de su lanzamiento y se centró en la optimización.
+El objetivo era reducir la fragmentación y permitir a dispositivos menos potentes poder funcionar correctamente con KitKat. El rendimiento se pulió, podía funcionar en smartphones con 512MB de RAM y Android RunTime comenzaba a dar sus primeros pasos.
+Hoy en día continúa habiendo millones de terminales con Android KitKat, aquí recopilamos modelos, ROMs para actualizarlos, trucos de personalización, aplicaciones compatibles y mucho más.
+Como muchos ya sabréis a partir de Android 4.4 (KitKat) ya es posible grabar en vídeo todo lo que sucede en la pantalla de nuestro dispositivo de forma oficial, sin necesidad de tener que rootearlo e instalar aplicaciones de terceros, aunque si que necesitamos conectar nuestro dispositivo Android a un ordenador.
+Para grabar la pantalla de nuestro dispositivo con Android 4.4 o superior, también conocido como hacer un screencast, tan solo necesitamos tener instalado en nuestro PC el Android SDK, en nuestro dispositivo tener habilitada la depuración USB en las opciones de desarrollo, conectar el dispositivo Android al ordenador con el cable USB y usar el nuevo comando screenrecord de ADB (Android Debug Bridge).
+
+    </string>
+    <string name="os1">
+
+iOS
+Parte de la familia BSD
+IOS wordmark (2017).svg
+ IOS.jpg
+
+Captura de pantalla de iOS 11
+Desarrollador
+Apple Inc.
+www.apple.com/es/ios
+Información general
+Modelo de desarrollo	Software propietario
+Lanzamiento inicial	29 de junio de 2007 (11 años, 7 meses y 1 día)
+Última versión estable	iOS 12 12.1.3
+Última versión en pruebas	iOS 12.2 Beta 1
+Escrito en	C, C++, Objective-C, Swift
+Núcleo	XNU
+Tipo de núcleo	Núcleo híbrido (XNU)
+Interfaz gráfica predeterminada	Cocoa Touch (Multitáctil, GUI)
+Plataformas soportadas	ARM (iPad, iPhone y iPod Touch)
+Método de actualización	Mediante iTunes. A partir de iOS 5 se puede actualizar desde el dispositivo (OTA).
+Licencia	APSL y Apple EULA
+Estado actual	En permanente desarrollo
+Idiomas	40 idiomas1​
+En español	Sí
+Soporte técnico
+Sólo para los dispositivos que tengan desde iOS 8.4.1 en adelante
+[editar datos en Wikidata]
+iOS es un sistema operativo móvil de la multinacional Apple Inc. Originalmente desarrollado para el iPhone (iPhone OS), después se ha usado en dispositivos como el iPod touch y el iPad. No permite la instalación de iOS en hardware de terceros.
+
+Actualmente es el segundo sistema operativo móvil más utilizado del mundo, detrás de Android, con una cuota de mercado de entre 10-15% al año 2017. La última versión del sistema operativo es iOS 12 aparecida en junio de 2018 sustituye a iOS 112​ con el objetivo principal de mejorar la experiencia del usuario.
+iOS es un sistema operativo móvil de la multinacional Apple Inc. Originalmente desarrollado para el iPhone (iPhone OS), después se ha usado en dispositivos como el iPod touch y el iPad. No permite la instalación de iOS en hardware de terceros.
+
+ </string>
+    <string name="os2">
+KitKat es sin duda una de las versiones de Android más conocidas por su nombre, la campaña de publicidad que Google hizo con Nestlé fue enorme, regalando dispositivos y muchos cupones regalo para Google Play en los envoltorios de los dulces.
+KitKat es Android 4.4, una versión que se presentó oficialmente el 3 de septiembre de 2013 y llegó hasta 4.4.4. Esta versión fue la que estuvo presente en el mítico Nexus 5 de LG en el momento de su lanzamiento y se centró en la optimización.
+El objetivo era reducir la fragmentación y permitir a dispositivos menos potentes poder funcionar correctamente con KitKat. El rendimiento se pulió, podía funcionar en smartphones con 512MB de RAM y Android RunTime comenzaba a dar sus primeros pasos.
+Hoy en día continúa habiendo millones de terminales con Android KitKat, aquí recopilamos modelos, ROMs para actualizarlos, trucos de personalización, aplicaciones compatibles y mucho más.
+Como muchos ya sabréis a partir de Android 4.4 (KitKat) ya es posible grabar en vídeo todo lo que sucede en la pantalla de nuestro dispositivo de forma oficial, sin necesidad de tener que rootearlo e instalar aplicaciones de terceros, aunque si que necesitamos conectar nuestro dispositivo Android a un ordenador.
+Para grabar la pantalla de nuestro dispositivo con Android 4.4 o superior, también conocido como hacer un screencast, tan solo necesitamos tener instalado en nuestro PC el Android SDK, en nuestro dispositivo tener habilitada la depuración USB en las opciones de desarrollo, conectar el dispositivo Android al ordenador con el cable USB y usar el nuevo comando screenrecord de ADB (Android Debug Bridge).
+
+    </string>
+    <string name="os3">
+KitKat es sin duda una de las versiones de Android más conocidas por su nombre, la campaña de publicidad que Google hizo con Nestlé fue enorme, regalando dispositivos y muchos cupones regalo para Google Play en los envoltorios de los dulces.
+KitKat es Android 4.4, una versión que se presentó oficialmente el 3 de septiembre de 2013 y llegó hasta 4.4.4. Esta versión fue la que estuvo presente en el mítico Nexus 5 de LG en el momento de su lanzamiento y se centró en la optimización.
+El objetivo era reducir la fragmentación y permitir a dispositivos menos potentes poder funcionar correctamente con KitKat. El rendimiento se pulió, podía funcionar en smartphones con 512MB de RAM y Android RunTime comenzaba a dar sus primeros pasos.
+Hoy en día continúa habiendo millones de terminales con Android KitKat, aquí recopilamos modelos, ROMs para actualizarlos, trucos de personalización, aplicaciones compatibles y mucho más.
+Como muchos ya sabréis a partir de Android 4.4 (KitKat) ya es posible grabar en vídeo todo lo que sucede en la pantalla de nuestro dispositivo de forma oficial, sin necesidad de tener que rootearlo e instalar aplicaciones de terceros, aunque si que necesitamos conectar nuestro dispositivo Android a un ordenador.
+Para grabar la pantalla de nuestro dispositivo con Android 4.4 o superior, también conocido como hacer un screencast, tan solo necesitamos tener instalado en nuestro PC el Android SDK, en nuestro dispositivo tener habilitada la depuración USB en las opciones de desarrollo, conectar el dispositivo Android al ordenador con el cable USB y usar el nuevo comando screenrecord de ADB (Android Debug Bridge).
+
+    </string>
+    <string name="os4">
+KitKat es sin duda una de las versiones de Android más conocidas por su nombre, la campaña de publicidad que Google hizo con Nestlé fue enorme, regalando dispositivos y muchos cupones regalo para Google Play en los envoltorios de los dulces.
+KitKat es Android 4.4, una versión que se presentó oficialmente el 3 de septiembre de 2013 y llegó hasta 4.4.4. Esta versión fue la que estuvo presente en el mítico Nexus 5 de LG en el momento de su lanzamiento y se centró en la optimización.
+El objetivo era reducir la fragmentación y permitir a dispositivos menos potentes poder funcionar correctamente con KitKat. El rendimiento se pulió, podía funcionar en smartphones con 512MB de RAM y Android RunTime comenzaba a dar sus primeros pasos.
+Hoy en día continúa habiendo millones de terminales con Android KitKat, aquí recopilamos modelos, ROMs para actualizarlos, trucos de personalización, aplicaciones compatibles y mucho más.
+Como muchos ya sabréis a partir de Android 4.4 (KitKat) ya es posible grabar en vídeo todo lo que sucede en la pantalla de nuestro dispositivo de forma oficial, sin necesidad de tener que rootearlo e instalar aplicaciones de terceros, aunque si que necesitamos conectar nuestro dispositivo Android a un ordenador.
+Para grabar la pantalla de nuestro dispositivo con Android 4.4 o superior, también conocido como hacer un screencast, tan solo necesitamos tener instalado en nuestro PC el Android SDK, en nuestro dispositivo tener habilitada la depuración USB en las opciones de desarrollo, conectar el dispositivo Android al ordenador con el cable USB y usar el nuevo comando screenrecord de ADB (Android Debug Bridge).
+
+    </string>
+    <string name="os5">
+KitKat es sin duda una de las versiones de Android más conocidas por su nombre, la campaña de publicidad que Google hizo con Nestlé fue enorme, regalando dispositivos y muchos cupones regalo para Google Play en los envoltorios de los dulces.
+KitKat es Android 4.4, una versión que se presentó oficialmente el 3 de septiembre de 2013 y llegó hasta 4.4.4. Esta versión fue la que estuvo presente en el mítico Nexus 5 de LG en el momento de su lanzamiento y se centró en la optimización.
+El objetivo era reducir la fragmentación y permitir a dispositivos menos potentes poder funcionar correctamente con KitKat. El rendimiento se pulió, podía funcionar en smartphones con 512MB de RAM y Android RunTime comenzaba a dar sus primeros pasos.
+Hoy en día continúa habiendo millones de terminales con Android KitKat, aquí recopilamos modelos, ROMs para actualizarlos, trucos de personalización, aplicaciones compatibles y mucho más.
+Como muchos ya sabréis a partir de Android 4.4 (KitKat) ya es posible grabar en vídeo todo lo que sucede en la pantalla de nuestro dispositivo de forma oficial, sin necesidad de tener que rootearlo e instalar aplicaciones de terceros, aunque si que necesitamos conectar nuestro dispositivo Android a un ordenador.
+Para grabar la pantalla de nuestro dispositivo con Android 4.4 o superior, también conocido como hacer un screencast, tan solo necesitamos tener instalado en nuestro PC el Android SDK, en nuestro dispositivo tener habilitada la depuración USB en las opciones de desarrollo, conectar el dispositivo Android al ordenador con el cable USB y usar el nuevo comando screenrecord de ADB (Android Debug Bridge).
+
+    </string>
+    <string name="os6">
+KitKat es sin duda una de las versiones de Android más conocidas por su nombre, la campaña de publicidad que Google hizo con Nestlé fue enorme, regalando dispositivos y muchos cupones regalo para Google Play en los envoltorios de los dulces.
+KitKat es Android 4.4, una versión que se presentó oficialmente el 3 de septiembre de 2013 y llegó hasta 4.4.4. Esta versión fue la que estuvo presente en el mítico Nexus 5 de LG en el momento de su lanzamiento y se centró en la optimización.
+El objetivo era reducir la fragmentación y permitir a dispositivos menos potentes poder funcionar correctamente con KitKat. El rendimiento se pulió, podía funcionar en smartphones con 512MB de RAM y Android RunTime comenzaba a dar sus primeros pasos.
+Hoy en día continúa habiendo millones de terminales con Android KitKat, aquí recopilamos modelos, ROMs para actualizarlos, trucos de personalización, aplicaciones compatibles y mucho más.
+Como muchos ya sabréis a partir de Android 4.4 (KitKat) ya es posible grabar en vídeo todo lo que sucede en la pantalla de nuestro dispositivo de forma oficial, sin necesidad de tener que rootearlo e instalar aplicaciones de terceros, aunque si que necesitamos conectar nuestro dispositivo Android a un ordenador.
+Para grabar la pantalla de nuestro dispositivo con Android 4.4 o superior, también conocido como hacer un screencast, tan solo necesitamos tener instalado en nuestro PC el Android SDK, en nuestro dispositivo tener habilitada la depuración USB en las opciones de desarrollo, conectar el dispositivo Android al ordenador con el cable USB y usar el nuevo comando screenrecord de ADB (Android Debug Bridge).
+
+    </string>
+    <string name="os7">
+KitKat es sin duda una de las versiones de Android más conocidas por su nombre, la campaña de publicidad que Google hizo con Nestlé fue enorme, regalando dispositivos y muchos cupones regalo para Google Play en los envoltorios de los dulces.
+KitKat es Android 4.4, una versión que se presentó oficialmente el 3 de septiembre de 2013 y llegó hasta 4.4.4. Esta versión fue la que estuvo presente en el mítico Nexus 5 de LG en el momento de su lanzamiento y se centró en la optimización.
+El objetivo era reducir la fragmentación y permitir a dispositivos menos potentes poder funcionar correctamente con KitKat. El rendimiento se pulió, podía funcionar en smartphones con 512MB de RAM y Android RunTime comenzaba a dar sus primeros pasos.
+Hoy en día continúa habiendo millones de terminales con Android KitKat, aquí recopilamos modelos, ROMs para actualizarlos, trucos de personalización, aplicaciones compatibles y mucho más.
+Como muchos ya sabréis a partir de Android 4.4 (KitKat) ya es posible grabar en vídeo todo lo que sucede en la pantalla de nuestro dispositivo de forma oficial, sin necesidad de tener que rootearlo e instalar aplicaciones de terceros, aunque si que necesitamos conectar nuestro dispositivo Android a un ordenador.
+Para grabar la pantalla de nuestro dispositivo con Android 4.4 o superior, también conocido como hacer un screencast, tan solo necesitamos tener instalado en nuestro PC el Android SDK, en nuestro dispositivo tener habilitada la depuración USB en las opciones de desarrollo, conectar el dispositivo Android al ordenador con el cable USB y usar el nuevo comando screenrecord de ADB (Android Debug Bridge).
+
+    </string>
+    <string name="lin1">
+KitKat es sin duda una de las versiones de Android más conocidas por su nombre, la campaña de publicidad que Google hizo con Nestlé fue enorme, regalando dispositivos y muchos cupones regalo para Google Play en los envoltorios de los dulces.
+KitKat es Android 4.4, una versión que se presentó oficialmente el 3 de septiembre de 2013 y llegó hasta 4.4.4. Esta versión fue la que estuvo presente en el mítico Nexus 5 de LG en el momento de su lanzamiento y se centró en la optimización.
+El objetivo era reducir la fragmentación y permitir a dispositivos menos potentes poder funcionar correctamente con KitKat. El rendimiento se pulió, podía funcionar en smartphones con 512MB de RAM y Android RunTime comenzaba a dar sus primeros pasos.
+Hoy en día continúa habiendo millones de terminales con Android KitKat, aquí recopilamos modelos, ROMs para actualizarlos, trucos de personalización, aplicaciones compatibles y mucho más.
+Como muchos ya sabréis a partir de Android 4.4 (KitKat) ya es posible grabar en vídeo todo lo que sucede en la pantalla de nuestro dispositivo de forma oficial, sin necesidad de tener que rootearlo e instalar aplicaciones de terceros, aunque si que necesitamos conectar nuestro dispositivo Android a un ordenador.
+Para grabar la pantalla de nuestro dispositivo con Android 4.4 o superior, también conocido como hacer un screencast, tan solo necesitamos tener instalado en nuestro PC el Android SDK, en nuestro dispositivo tener habilitada la depuración USB en las opciones de desarrollo, conectar el dispositivo Android al ordenador con el cable USB y usar el nuevo comando screenrecord de ADB (Android Debug Bridge).
+
+    </string>
+    <string name="lin2">
+KitKat es sin duda una de las versiones de Android más conocidas por su nombre, la campaña de publicidad que Google hizo con Nestlé fue enorme, regalando dispositivos y muchos cupones regalo para Google Play en los envoltorios de los dulces.
+KitKat es Android 4.4, una versión que se presentó oficialmente el 3 de septiembre de 2013 y llegó hasta 4.4.4. Esta versión fue la que estuvo presente en el mítico Nexus 5 de LG en el momento de su lanzamiento y se centró en la optimización.
+El objetivo era reducir la fragmentación y permitir a dispositivos menos potentes poder funcionar correctamente con KitKat. El rendimiento se pulió, podía funcionar en smartphones con 512MB de RAM y Android RunTime comenzaba a dar sus primeros pasos.
+Hoy en día continúa habiendo millones de terminales con Android KitKat, aquí recopilamos modelos, ROMs para actualizarlos, trucos de personalización, aplicaciones compatibles y mucho más.
+Como muchos ya sabréis a partir de Android 4.4 (KitKat) ya es posible grabar en vídeo todo lo que sucede en la pantalla de nuestro dispositivo de forma oficial, sin necesidad de tener que rootearlo e instalar aplicaciones de terceros, aunque si que necesitamos conectar nuestro dispositivo Android a un ordenador.
+Para grabar la pantalla de nuestro dispositivo con Android 4.4 o superior, también conocido como hacer un screencast, tan solo necesitamos tener instalado en nuestro PC el Android SDK, en nuestro dispositivo tener habilitada la depuración USB en las opciones de desarrollo, conectar el dispositivo Android al ordenador con el cable USB y usar el nuevo comando screenrecord de ADB (Android Debug Bridge).
+
+    </string>
+    <string name="lin3">
+KitKat es sin duda una de las versiones de Android más conocidas por su nombre, la campaña de publicidad que Google hizo con Nestlé fue enorme, regalando dispositivos y muchos cupones regalo para Google Play en los envoltorios de los dulces.
+KitKat es Android 4.4, una versión que se presentó oficialmente el 3 de septiembre de 2013 y llegó hasta 4.4.4. Esta versión fue la que estuvo presente en el mítico Nexus 5 de LG en el momento de su lanzamiento y se centró en la optimización.
+El objetivo era reducir la fragmentación y permitir a dispositivos menos potentes poder funcionar correctamente con KitKat. El rendimiento se pulió, podía funcionar en smartphones con 512MB de RAM y Android RunTime comenzaba a dar sus primeros pasos.
+Hoy en día continúa habiendo millones de terminales con Android KitKat, aquí recopilamos modelos, ROMs para actualizarlos, trucos de personalización, aplicaciones compatibles y mucho más.
+Como muchos ya sabréis a partir de Android 4.4 (KitKat) ya es posible grabar en vídeo todo lo que sucede en la pantalla de nuestro dispositivo de forma oficial, sin necesidad de tener que rootearlo e instalar aplicaciones de terceros, aunque si que necesitamos conectar nuestro dispositivo Android a un ordenador.
+Para grabar la pantalla de nuestro dispositivo con Android 4.4 o superior, también conocido como hacer un screencast, tan solo necesitamos tener instalado en nuestro PC el Android SDK, en nuestro dispositivo tener habilitada la depuración USB en las opciones de desarrollo, conectar el dispositivo Android al ordenador con el cable USB y usar el nuevo comando screenrecord de ADB (Android Debug Bridge).
+
+    </string>
+    <string name="lin4">
+KitKat es sin duda una de las versiones de Android más conocidas por su nombre, la campaña de publicidad que Google hizo con Nestlé fue enorme, regalando dispositivos y muchos cupones regalo para Google Play en los envoltorios de los dulces.
+KitKat es Android 4.4, una versión que se presentó oficialmente el 3 de septiembre de 2013 y llegó hasta 4.4.4. Esta versión fue la que estuvo presente en el mítico Nexus 5 de LG en el momento de su lanzamiento y se centró en la optimización.
+El objetivo era reducir la fragmentación y permitir a dispositivos menos potentes poder funcionar correctamente con KitKat. El rendimiento se pulió, podía funcionar en smartphones con 512MB de RAM y Android RunTime comenzaba a dar sus primeros pasos.
+Hoy en día continúa habiendo millones de terminales con Android KitKat, aquí recopilamos modelos, ROMs para actualizarlos, trucos de personalización, aplicaciones compatibles y mucho más.
+Como muchos ya sabréis a partir de Android 4.4 (KitKat) ya es posible grabar en vídeo todo lo que sucede en la pantalla de nuestro dispositivo de forma oficial, sin necesidad de tener que rootearlo e instalar aplicaciones de terceros, aunque si que necesitamos conectar nuestro dispositivo Android a un ordenador.
+Para grabar la pantalla de nuestro dispositivo con Android 4.4 o superior, también conocido como hacer un screencast, tan solo necesitamos tener instalado en nuestro PC el Android SDK, en nuestro dispositivo tener habilitada la depuración USB en las opciones de desarrollo, conectar el dispositivo Android al ordenador con el cable USB y usar el nuevo comando screenrecord de ADB (Android Debug Bridge).
+
+    </string>
+    <string name="lin5">
+KitKat es sin duda una de las versiones de Android más conocidas por su nombre, la campaña de publicidad que Google hizo con Nestlé fue enorme, regalando dispositivos y muchos cupones regalo para Google Play en los envoltorios de los dulces.
+KitKat es Android 4.4, una versión que se presentó oficialmente el 3 de septiembre de 2013 y llegó hasta 4.4.4. Esta versión fue la que estuvo presente en el mítico Nexus 5 de LG en el momento de su lanzamiento y se centró en la optimización.
+El objetivo era reducir la fragmentación y permitir a dispositivos menos potentes poder funcionar correctamente con KitKat. El rendimiento se pulió, podía funcionar en smartphones con 512MB de RAM y Android RunTime comenzaba a dar sus primeros pasos.
+Hoy en día continúa habiendo millones de terminales con Android KitKat, aquí recopilamos modelos, ROMs para actualizarlos, trucos de personalización, aplicaciones compatibles y mucho más.
+Como muchos ya sabréis a partir de Android 4.4 (KitKat) ya es posible grabar en vídeo todo lo que sucede en la pantalla de nuestro dispositivo de forma oficial, sin necesidad de tener que rootearlo e instalar aplicaciones de terceros, aunque si que necesitamos conectar nuestro dispositivo Android a un ordenador.
+Para grabar la pantalla de nuestro dispositivo con Android 4.4 o superior, también conocido como hacer un screencast, tan solo necesitamos tener instalado en nuestro PC el Android SDK, en nuestro dispositivo tener habilitada la depuración USB en las opciones de desarrollo, conectar el dispositivo Android al ordenador con el cable USB y usar el nuevo comando screenrecord de ADB (Android Debug Bridge).
+
+    </string>
+    <string name="lin6">
+KitKat es sin duda una de las versiones de Android más conocidas por su nombre, la campaña de publicidad que Google hizo con Nestlé fue enorme, regalando dispositivos y muchos cupones regalo para Google Play en los envoltorios de los dulces.
+KitKat es Android 4.4, una versión que se presentó oficialmente el 3 de septiembre de 2013 y llegó hasta 4.4.4. Esta versión fue la que estuvo presente en el mítico Nexus 5 de LG en el momento de su lanzamiento y se centró en la optimización.
+El objetivo era reducir la fragmentación y permitir a dispositivos menos potentes poder funcionar correctamente con KitKat. El rendimiento se pulió, podía funcionar en smartphones con 512MB de RAM y Android RunTime comenzaba a dar sus primeros pasos.
+Hoy en día continúa habiendo millones de terminales con Android KitKat, aquí recopilamos modelos, ROMs para actualizarlos, trucos de personalización, aplicaciones compatibles y mucho más.
+Como muchos ya sabréis a partir de Android 4.4 (KitKat) ya es posible grabar en vídeo todo lo que sucede en la pantalla de nuestro dispositivo de forma oficial, sin necesidad de tener que rootearlo e instalar aplicaciones de terceros, aunque si que necesitamos conectar nuestro dispositivo Android a un ordenador.
+Para grabar la pantalla de nuestro dispositivo con Android 4.4 o superior, también conocido como hacer un screencast, tan solo necesitamos tener instalado en nuestro PC el Android SDK, en nuestro dispositivo tener habilitada la depuración USB en las opciones de desarrollo, conectar el dispositivo Android al ordenador con el cable USB y usar el nuevo comando screenrecord de ADB (Android Debug Bridge).
+
+    </string>
+    <string name="lin7">
+KitKat es sin duda una de las versiones de Android más conocidas por su nombre, la campaña de publicidad que Google hizo con Nestlé fue enorme, regalando dispositivos y muchos cupones regalo para Google Play en los envoltorios de los dulces.
+KitKat es Android 4.4, una versión que se presentó oficialmente el 3 de septiembre de 2013 y llegó hasta 4.4.4. Esta versión fue la que estuvo presente en el mítico Nexus 5 de LG en el momento de su lanzamiento y se centró en la optimización.
+El objetivo era reducir la fragmentación y permitir a dispositivos menos potentes poder funcionar correctamente con KitKat. El rendimiento se pulió, podía funcionar en smartphones con 512MB de RAM y Android RunTime comenzaba a dar sus primeros pasos.
+Hoy en día continúa habiendo millones de terminales con Android KitKat, aquí recopilamos modelos, ROMs para actualizarlos, trucos de personalización, aplicaciones compatibles y mucho más.
+Como muchos ya sabréis a partir de Android 4.4 (KitKat) ya es posible grabar en vídeo todo lo que sucede en la pantalla de nuestro dispositivo de forma oficial, sin necesidad de tener que rootearlo e instalar aplicaciones de terceros, aunque si que necesitamos conectar nuestro dispositivo Android a un ordenador.
+Para grabar la pantalla de nuestro dispositivo con Android 4.4 o superior, también conocido como hacer un screencast, tan solo necesitamos tener instalado en nuestro PC el Android SDK, en nuestro dispositivo tener habilitada la depuración USB en las opciones de desarrollo, conectar el dispositivo Android al ordenador con el cable USB y usar el nuevo comando screenrecord de ADB (Android Debug Bridge).
+
+    </string>
+    <string name="lin8">
+KitKat es sin duda una de las versiones de Android más conocidas por su nombre, la campaña de publicidad que Google hizo con Nestlé fue enorme, regalando dispositivos y muchos cupones regalo para Google Play en los envoltorios de los dulces.
+KitKat es Android 4.4, una versión que se presentó oficialmente el 3 de septiembre de 2013 y llegó hasta 4.4.4. Esta versión fue la que estuvo presente en el mítico Nexus 5 de LG en el momento de su lanzamiento y se centró en la optimización.
+El objetivo era reducir la fragmentación y permitir a dispositivos menos potentes poder funcionar correctamente con KitKat. El rendimiento se pulió, podía funcionar en smartphones con 512MB de RAM y Android RunTime comenzaba a dar sus primeros pasos.
+Hoy en día continúa habiendo millones de terminales con Android KitKat, aquí recopilamos modelos, ROMs para actualizarlos, trucos de personalización, aplicaciones compatibles y mucho más.
+Como muchos ya sabréis a partir de Android 4.4 (KitKat) ya es posible grabar en vídeo todo lo que sucede en la pantalla de nuestro dispositivo de forma oficial, sin necesidad de tener que rootearlo e instalar aplicaciones de terceros, aunque si que necesitamos conectar nuestro dispositivo Android a un ordenador.
+Para grabar la pantalla de nuestro dispositivo con Android 4.4 o superior, también conocido como hacer un screencast, tan solo necesitamos tener instalado en nuestro PC el Android SDK, en nuestro dispositivo tener habilitada la depuración USB en las opciones de desarrollo, conectar el dispositivo Android al ordenador con el cable USB y usar el nuevo comando screenrecord de ADB (Android Debug Bridge).
+
+    </string>
+
+
+</resources>
